@@ -9,4 +9,4 @@ Users can make payments using various payment methods, and receive confirmation 
 The flight reservation website simplifies the booking process and helps users find the best deals and discounts 
 available for their travel needs✈.
 
-![flight1](https://user-images.githubusercontent.com/110390873/225559587-0e88d4ba-e9aa-4e0e-8310-3f059ffdcb0a.png)
+![Screenshot (68)](https://user-images.githubusercontent.com/110390873/225559828-80ed2b02-0ad1-4fb4-ad3e-32066ec9a310.png)
